@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"bordr",
+				"border-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"trans-",
+				"transition-property"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"the",
+				"the_field"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"comm",
+				"commodore_cruises_events"
+			],
+			[
+				"wp",
+				"wp_enqueue_style"
+			],
+			[
+				"sass",
+				"sassStyle"
+			],
+			[
+				"_",
+				"_development"
+			],
+			[
+				"de",
+				"_development"
+			],
+			[
+				"php",
+				"phpSources"
+			],
+			[
+				"html",
+				"htmlSources"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-flow"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"foo",
+				"footer-widgets"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list:n\tlist-style-type:none"
+			],
+			[
+				"vmade",
+				"vmade_blue"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/PacWeb/htdocs/Misc JS/js-function-maximum-product"
+	],
+	"file_history":
+	[
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/index.html",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/style.css",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/index2.html",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/main.js",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/css/style.css",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/README.MD",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/readme.md",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/js/main.js",
+		"/Users/PacWeb/htdocs/AoA-U/_old version on sfweb/wp-config-backup092016.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/front-page.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/layout/_content-noSidebar.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/template-parts/content-page.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/page.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/template-parts/original_content-page.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/original_page.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/layout/_header.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/site/_site.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/header.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/original_header.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/footer.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/_backups/main-backup-080916.js",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/layout/_footer-v1.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/footer-v1.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/layout/_footer.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/mixins/_mixins-master.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/elements/_animated.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/variables-site/_colors.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/navigation/_menus.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/style.scss",
+		"/Users/PacWeb/htdocs/AoA-U/wp-settings.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/gulpfile.js",
+		"/Users/PacWeb/htdocs/AoA-U/_for-dev-site/DB/080816 local export/aoa-u.sql",
+		"/Users/PacWeb/htdocs/AoA-U/_for-dev-site/DB/adj/wp-config.php",
+		"/Users/PacWeb/htdocs/AoA-U/_for-dev-site/wp-config.php",
+		"/Users/PacWeb/htdocs/AoA-U/_for-dev-site/DB/samples/wp-config.php",
+		"/Users/PacWeb/htdocs/AoA-U/_for-dev-site/DB/for import/aoa-u.sql",
+		"/Users/PacWeb/Downloads/aoa-u (1).sql",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/variables-site/_structure.scss",
+		"/Users/PacWeb/htdocs/AoA-U/_notes/fade in function with jQuery call.txt",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/bourbon/bourbon/library/_size.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/typography/_headings.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/typography/_copy.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/elements/_elements.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/typography/_typography.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/functions.php",
+		"/Users/PacWeb/htdocs/AoA-U/_notes/bourbon refills.txt",
+		"/Users/PacWeb/htdocs/AoA-U/_notes/sass imports.txt",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/bourbon/bourbon/helpers/_scales.scss",
+		"/Users/PacWeb/htdocs/AoA-U/_notes/minor-third-Modularscale.png",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/variables-site/_typography.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/variables-site/_variables-site.scss",
+		"/Users/PacWeb/htdocs/AoA-U/wp-admin/css/customize-controls-rtl.css",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/page-home.php",
+		"/Users/PacWeb/htdocs/AoA-M/site-content/themes/aoa-middle/header.php",
+		"/Users/PacWeb/htdocs/AoA-U/wp-admin/php.ini",
+		"/Users/PacWeb/htdocs/AoA-U/.htaccess",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/config.rb",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/variables-site/_animations.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/base/_typography.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/base/_base.scss",
+		"/Users/PacWeb/htdocs/AoA-U/readme.mb",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/media/_media.scss",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/sidebar-footer.php",
+		"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/package.json",
+		"/Users/PacWeb/htdocs/_Notes/gulp files/gulpfile_with-compass.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/bourbon",
+			"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass",
+			"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass/bourbon",
+			"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella/_components/sass",
+			"/Users/PacWeb/htdocs/AoA-U/site-content/themes/aoa-umbrella",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events/_components/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises_events",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_c_e/sass",
+			"/Users/PacWeb/htdocs/Commodore-new/site-content/themes/commodore_cruises",
+			"/Users/PacWeb/htdocs/Vmade-SF/site-content/themes/vmade_sf/sass",
+			"/Applications/MAMP/htdocs/PacWeb/wp-content/themes/smoothpost2",
+			"",
+			"/Users/PacWeb/Documents/Clients/Amber Regina/website/backups of staging site/090514 - partial/site files/wp-content",
+			"/Users/PacWeb/Documents/Clients/Amber Regina/website/backups of staging site/090514 - partial/site files/wp-content/themes/clipcart",
+			"/Users/PacWeb/Documents/Clients/Fiorella Ins/Reform Experts/backups/082814/site files/wp-content/plugins/gravityforms",
+			"/Users/PacWeb/Documents/Clients/Fiorella Ins/Reform Experts/backups/082814/site files",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"template_dir",
+			"theme",
+			"green",
+			"AoA-U",
+			"/AoA-U",
+			"AoA-U",
+			"localhost/",
+			"localhost/AoA-u",
+			"localhost",
+			"utf8mb4",
+			"localhost",
+			"jQuery",
+			"flex",
+			"display",
+			"site-main",
+			"$modular-scale-base",
+			"$golden",
+			"opensans",
+			"open+sans",
+			"open-sans",
+			"util",
+			"cursor",
+			"font-size",
+			"$sizeValue",
+			".site-content",
+			"css",
+			"em",
+			"$comm-grey",
+			"$medium-gray",
+			"$medium-grey",
+			"$comm-grey",
+			"$font__main",
+			"$font_title",
+			"$font__main",
+			"$font__line-height-pre",
+			"$font__line-height-body",
+			"$color__text-main",
+			"$color__background-body",
+			"commodore-background.png",
+			"stylesheet",
+			"_development/",
+			"events",
+			"modernizr",
+			"html",
+			"h6",
+			"box-sizing",
+			"flex",
+			"%1$s",
+			"site-main",
+			"menu-toggle",
+			"h4",
+			"$default-border-radius",
+			"#linear-gradient",
+			"portfolio",
+			"site_title",
+			"header",
+			"genesis_header",
+			"header",
+			"Media Queries",
+			"widget",
+			"width",
+			"Layout",
+			".widget-area",
+			".title-area",
+			"5C9C4F",
+			" be_title_toggle",
+			" be_title_toggle_post_types",
+			"roboto",
+			"roboto slab",
+			"footer_genesis_link",
+			"66ab58",
+			"5a8552",
+			"3e7b7a\n3e7b7a\n3e7b7a\n3e7b7a\n5a8552",
+			"5d9d50",
+			"6ab05b",
+			"7bcc6b",
+			"portfolio",
+			".fa",
+			"portfolio",
+			":200",
+			"product_category",
+			"product category",
+			"product_category",
+			" $entry['38.4']",
+			"id: 2",
+			"enrollment",
+			"template_enroll_custom.php",
+			":99",
+			"site description"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"aoa-u.sfwebfoundry.com",
+			"utf8",
+			"aoa-u.sfwebfoundry.com",
+			"rem",
+			"$comm-gray",
+			"$heading-font-family",
+			"h2",
+			"4b9694",
+			"Jeunesse W01 Bold",
+			"53a7a5",
+			"3e7b7a",
+			"4b9694",
+			"53a7a5",
+			"4b9694",
+			".ic"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "max-product.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
