@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"int32Max"
+			],
+			[
+				"val",
+				"value3"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"list",
+				"list1Length"
+			],
+			[
+				"i",
+				"int32Max"
+			],
+			[
 				"cu",
 				"cursor"
 			],
@@ -144,10 +168,6 @@
 				"margin-bottom"
 			],
 			[
-				"list",
-				"list:n\tlist-style-type:none"
-			],
-			[
 				"vmade",
 				"vmade_blue"
 			],
@@ -167,15 +187,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 222,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -218,6 +229,8 @@
 	],
 	"file_history":
 	[
+		"/Users/PacWeb/htdocs/Misc JS/js-function-maximum-product/index.html",
+		"/Users/PacWeb/htdocs/Misc JS/js-function-maximum-product/README.md",
 		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/index.html",
 		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/style.css",
 		"/Users/PacWeb/htdocs/Misc JS/js-function-combine-2-integer-lists/index2.html",
@@ -440,37 +453,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 222,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								221,
-								221
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

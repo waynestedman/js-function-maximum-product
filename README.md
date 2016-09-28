@@ -1,1 +1,1 @@
-JavaScript function that takess a list of integers and returns the maximum product that can be derived from any three integers in the list. Values have to be a valid Int32 product, otherwise Argument Exception is returned.
+JavaScript function that takes a list of integers and returns the maximum product that can be derived from any three integers in the list. Values have to be a valid Int32 product, otherwise Argument Exception is returned.
